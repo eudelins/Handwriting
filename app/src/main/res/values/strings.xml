@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Handwriting</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">"Let's get started !"</string>
+    <string name="imageViewDesc">Will contains a picture taken or imported by the user</string>
+    <string name="next">Next</string>
+    <string name="camera">Camera</string>
+    <string name="importPic">Import</string>
+    <string name="readNumber">Read number</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
